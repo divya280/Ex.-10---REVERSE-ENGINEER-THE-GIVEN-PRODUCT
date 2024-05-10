@@ -1,6 +1,6 @@
-# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex. 04  - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 10.05.2024
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -32,11 +32,15 @@
 
 ## Input:
 
+![image](https://github.com/divya280/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/82276099/e80509bd-545e-4c04-bd55-745529c70ba7)
+
 ### Output:
 
+![image](https://github.com/divya280/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/82276099/8fd6800b-2784-4d6a-ba9e-1a68296a840f)
 
-### Name:
-### Register Number:
+
+### Name: V.Divyashree
+### Register Number: 212223230051
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
